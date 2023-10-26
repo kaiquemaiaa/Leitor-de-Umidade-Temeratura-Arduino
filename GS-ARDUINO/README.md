@@ -3,8 +3,9 @@
 Kaique Maia Reis Silva / 
 Lucas Augusto Dutra Keller /
 Pedro Henrique Alves Guariente /
-David de Medeiros Pacheco Junior /
+David de Medeiros Junior /
 Orlando Akio Morii Cardoso
+Projeto realizado em Junho
 
 # Leitor de Umidade e Temperatura com Arduino
 
