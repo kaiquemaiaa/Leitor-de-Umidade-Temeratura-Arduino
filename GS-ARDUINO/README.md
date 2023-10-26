@@ -1,9 +1,9 @@
 # README GS-ARDUINO
 
-Kaique Maia Reis Silva
-Lucas Augusto Dutra Keller
-Pedro Henrique Alves Guariente
-David de Medeiros Pacheco Junior
+Kaique Maia Reis Silva / 
+Lucas Augusto Dutra Keller /
+Pedro Henrique Alves Guariente /
+David de Medeiros Pacheco Junior /
 Orlando Akio Morii Cardoso
 
 # Leitor de Umidade e Temperatura com Arduino
