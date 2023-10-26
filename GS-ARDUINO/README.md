@@ -1,9 +1,10 @@
 # README GS-ARDUINO
-RM551073 - Lucas Augusto Dutra Keller
-RM550301 - Pedro Henrique Alves Guariente
-RM551462 - David de Medeiros Pacheco Junior
-RM552112 - Kaique Maia Reis Silva
-RM98067 - Orlando Akio Morii Cardoso
+
+Kaique Maia Reis Silva
+Lucas Augusto Dutra Keller
+Pedro Henrique Alves Guariente
+David de Medeiros Pacheco Junior
+Orlando Akio Morii Cardoso
 
 # Leitor de Umidade e Temperatura com Arduino
 
